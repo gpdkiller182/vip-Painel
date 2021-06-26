@@ -33,7 +33,7 @@ def rekt():
    else:
        os.system("termux-open-url https://youtu.be/1oAZVariAvk")
 
-result = pyfiglet.figlet_format("Kiny", font = "cosmic"  )
+result = pyfiglet.figlet_format("GOD KILLER", font = "cosmic"  )
 
 def clear():
     os.system('cls' if os.name == 'nt' else 'clear')
@@ -75,7 +75,7 @@ def chat():
 	print()
 	print(f'{C}[{G}i{C}] /connect chat.freenode.net') 
 	print(f'{C}[{G}i{C}] /nick (seu nickname)')
-	print(f'{C}[{G}i{C}] /join #Kiny')
+	print(f'{C}[{G}i{C}] /join #GOD KILLER')
 	print(f'{C}[{R}i{C}] Quando for sair, digite /exit')
 	pause = input(f'{C}{Y}APERTE ENTER PARA IR PRO CHAT{C}')
 	os.system("irssi")
@@ -114,7 +114,7 @@ def notes():
 -Nova opção no menu
         
     Codado por: {C}{B}YATO{C}
-    APIs ,ideia e código inicial: {C}{B}KINY{C}
+    APIs ,ideia e código inicial: {C}{B}GOD KILLER{C}
     API MTE e auxilio no script: {C}{B}p0is0n{C}
     Patrocinio:Obrigado {C}{B}Douglas{C} e {C}{B}Margarina{C} pelo money pra fazer o script.
     
@@ -458,7 +458,7 @@ def cep(anim):
         pass
 
 
-def kiny_infoga():
+def GOD KILLER_infoga():
     os.system("apt install nmap whois")
     clear()
     print(f'{C}{G}{result}{C}')
@@ -585,7 +585,7 @@ def bank(anim):
         bank_data = req.json()
 
         if 'message' not in bank_data:
-            os.system("figlet KINY")
+            os.system("figlet GOD KILLER")
             print("Código bancário: {}".format(bank_data['code']))
             print("Nome: {}".format(bank_data['name']))
             print("Nome completo: {}".format(bank_data['fullName']))
