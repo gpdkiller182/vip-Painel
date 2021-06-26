@@ -45,7 +45,7 @@ except:
 	os.system('pip3 install requests phonenumbers urllib3 colorama bs4 html5lib argparse pytube pyfiglet')
 	restart()
 
-result = pyfiglet.figlet_format("GOD KILLER", font = "cosmic"  )
+result = pyfiglet.figlet_format("10$", font = "cosmic"  )
 
 def draw_to_screen(content):
     clear_console = 'clear' if os.name == 'posix' else 'CLS'
@@ -91,7 +91,7 @@ def twyu():
        os.system("termux-open-url https://youtube.com/c/G%C3%98DKILLER1")
 def gbzap():
    if platform.system() == "Windows":
-      webbrowser.open_new_tab("https://chat.whatsapp.com/FGqPJ8PVWONL1Cn0m7Zlec)
+      webbrowser.open_new_tab("https://chat.whatsapp.com/FGqPJ8PVWONL1Cn0m7Zlec")
    else:
        os.system("termux-open-url https://chat.whatsapp.com/FGqPJ8PVWONL1Cn0m7Zlec")
 
