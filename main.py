@@ -243,9 +243,8 @@ except:
 if login == 1:
     tools.clear()
     print(f'{C}{G}{result}{C}')
-    user = 'god'
+    user = input(f"{C}[{G}+{C}]USERNAME:  ")
     snh = 'god'
-    if input(f"{C}[{G}+{C}]USERNAME:  ").strip() == user:
     if input(f"{C}[{G}+{C}]PASSWORD:  ").strip() == snh:
         print(f"{C}[{G}*{C}] Acesso Liberado...")
         time.sleep(1)
