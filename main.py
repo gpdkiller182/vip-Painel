@@ -1,17 +1,7 @@
 import marshal, zlib
 import os, sys
 try:
-	global R,B,C,Y,G,RT,CY,CO
-CO='\033[m'
-R='\033[1;31m'
-B='\033[1;34m'
-C='\033[1;37m'
-CY='\033[1;36m'
-Y='\033[1;33m'
-G='\033[1;32m'
-RT='\033[;0m'
-
-## Distribuido livremente pela licença MIT,
+   ## Distribuido livremente pela licença MIT,
 ## Aos que não sabem o que isso significa,sugerimos estudo.
 #######################
 ##
