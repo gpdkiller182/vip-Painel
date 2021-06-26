@@ -74,69 +74,69 @@ def clear():
 
 def youtube():
    if platform.system() == "Windows":
-      webbrowser.open_new_tab("https://youtube.com/channel/UC1aTvkvmTVO7OJ6oixtJo8w")
+      webbrowser.open_new_tab("https://youtube.com/c/G%C3%98DKILLER1")
    else:
-       os.system("termux-open-url https://youtube.com/channel/UC1aTvkvmTVO7OJ6oixtJo8w")
+       os.system("termux-open-url https://youtube.com/c/G%C3%98DKILLER1")
 
 def zapzap():
    if platform.system() == "Windows":
-      webbrowser.open_new_tab("http://wa.me/552179180533")
+      webbrowser.open_new_tab("https://wa.me/553299538769")
    else:
-       os.system("termux-open-url http://wa.me/552179180533")
+       os.system("termux-open-url https://wa.me/553299538769")
 
 def twyu():
    if platform.system() == "Windows":
-      webbrowser.open_new_tab("https://youtu.be/njoBMZD_jP0")
+      webbrowser.open_new_tab("https://youtube.com/c/G%C3%98DKILLER1")
    else:
-       os.system("termux-open-url https://youtu.be/njoBMZD_jP0")
+       os.system("termux-open-url https://youtube.com/c/G%C3%98DKILLER1")
 def gbzap():
    if platform.system() == "Windows":
-      webbrowser.open_new_tab("https://chat.whatsapp.com/CWUSrKYeJG67kVTQmt0ZGo")
+      webbrowser.open_new_tab("https://chat.whatsapp.com/FGqPJ8PVWONL1Cn0m7Zlec)
    else:
-       os.system("termux-open-url https://chat.whatsapp.com/CWUSrKYeJG67kVTQmt0ZGo")
+       os.system("termux-open-url https://chat.whatsapp.com/FGqPJ8PVWONL1Cn0m7Zlec")
 
 def zap2():
    if platform.system() == "Windows":
-      webbrowser.open_new_tab("https://chat.whatsapp.com/G1IBFwwbI75EBIhUUS17sp")
+      webbrowser.open_new_tab("https://chat.whatsapp.com/FGqPJ8PVWONL1Cn0m7Zlec")
    else:
-       os.system("termux-open-url https://chat.whatsapp.com/G1IBFwwbI75EBIhUUS17sp")
+       os.system("termux-open-url https://chat.whatsapp.com/FGqPJ8PVWONL1Cn0m7Zlec")
 
 def antiatz():
    if platform.system() == "Windows":
-      webbrowser.open_new_tab("https://chat.whatsapp.com/Jhrhuyf7GCzI8fITIrjSDV")
+      webbrowser.open_new_tab("https://chat.whatsapp.com/FGqPJ8PVWONL1Cn0m7Zlec")
    else:
-       os.system("termux-open-url https://chat.whatsapp.com/Jhrhuyf7GCzI8fITIrjSDV")
+       os.system("termux-open-url https://chat.whatsapp.com/FGqPJ8PVWONL1Cn0m7Zlec")
 
 
 def alvo1():
    if platform.system() == "Windows":
-      webbrowser.open_new_tab("wa.me/559584079659")
+      webbrowser.open_new_tab("https://wa.me/553299538769")
    else:
-       os.system("termux-open-url wa.me/559584079659")
+       os.system("termux-open-url https://wa.me/553299538769")
        
 def alvo2():
    if platform.system() == "Windows":
-      webbrowser.open_new_tab("wa.me/558186422466")
+      webbrowser.open_new_tab("https://wa.me/553299538769")
    else:
-       os.system("termux-open-url wa.me/558186422466")
+       os.system("termux-open-url https://wa.me/553299538769")
        
 def alvo3():
    if platform.system() == "Windows":
-      webbrowser.open_new_tab("wa.me/556892336616")
+      webbrowser.open_new_tab("https://wa.me/553299538769")
    else:
-       os.system("termux-open-url wa.me/556892336616")
+       os.system("termux-open-url https://wa.me/553299538769")
        
 def alvo4():
    if platform.system() == "Windows":
-      webbrowser.open_new_tab("wa.me/556791392399")
+      webbrowser.open_new_tab("https://wa.me/553299538769")
    else:
-       os.system("termux-open-url wa.me/556791392399")
+       os.system("termux-open-url https://wa.me/553299538769")
        
 def alvo5():
    if platform.system() == "Windows":
-      webbrowser.open_new_tab("https://chat.whatsapp.com/DelttpvNeQS93n0l2MJFWU")
+      webbrowser.open_new_tab("https://chat.whatsapp.com/FGqPJ8PVWONL1Cn0m7Zlec")
    else:
-       os.system("termux-open-url https://chat.whatsapp.com/DelttpvNeQS93n0l2MJFWU")
+       os.system("termux-open-url https://chat.whatsapp.com/FGqPJ8PVWONL1Cn0m7Zlec")
 
 if sys.version_info[0] < 3:
     print(f'{C}[{R}ERROR{C}] Necessário utilizar python3!')
